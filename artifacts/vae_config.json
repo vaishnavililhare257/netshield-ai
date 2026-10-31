@@ -1,0 +1,17 @@
+{
+    "input_dim": 59,
+    "hidden_dim1": 64,
+    "hidden_dim2": 32,
+    "latent_dim": 16,
+    "beta": 1.0,
+    "learning_rate": 0.001,
+    "batch_size": 256,
+    "epochs": 8,
+    "threshold_quantile": 0.95,
+    "threshold": 1.2085390090942383,
+    "training_time_sec": 1.041,
+    "device": "cpu",
+    "val_score_min": 0.22141201794147491,
+    "val_score_mean": 0.6906015872955322,
+    "val_score_max": 30.62844467163086
+}
